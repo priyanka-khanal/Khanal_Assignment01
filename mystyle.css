@@ -1,0 +1,67 @@
+div.navBar
+{
+    background-color: red;
+    background-blend-mode: hard-light;
+    text-align: center;
+
+}
+img.img-circle
+{
+    align-content: fill;
+    border-radius:100%;
+    padding: 10px;
+    width: 350px;
+    Height: 350px;
+    display: block;
+   
+}
+div.video, iframe 
+{
+    margin: 0 auto;
+    display:block;
+}
+h1.Introduction
+{
+  text-align: left;
+  color: brown ;
+  font-size: 50px;
+  font-weight: bold;
+  
+}
+#contact
+{
+    text-align: center;
+    color:black;
+    Font-weight: bold;
+
+}
+#More
+ {
+     font-size: 15px;
+     color: orangered;
+     Font-weight: bold;
+     text-align: center;
+ }
+ #intro
+ {
+     display:inline-block;
+     font-size: 30px;
+
+ }
+ #sizeOfBox{
+     width: 200px;
+     height: 100px;
+ }
+ 
+body{
+    background-image: url("backgroundImg.jpg");
+    background-position: center;
+    background-size: auto;
+
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    text-emphasis: filled;
+}
