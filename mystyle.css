@@ -35,13 +35,7 @@ h1.Introduction
     Font-weight: bold;
 
 }
-#More
- {
-     font-size: 15px;
-     color: orangered;
-     Font-weight: bold;
-     text-align: center;
- }
+
  #intro
  {
      display:inline-block;
