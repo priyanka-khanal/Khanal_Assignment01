@@ -22,11 +22,31 @@ div.video, iframe
 }
 h1.Introduction
 {
-  text-align: left;
-  color: brown ;
-  font-size: 50px;
-  font-weight: bold;
+    text-align: left;
+    color: brown ;
+    font-size: 50px;
+    font-weight: bold;
   
+}
+h1.Grader
+{
+    text-align: center;
+    color: yellow;
+    font-size: 45px;
+    font-weight:bold;
+}
+p.question
+{
+    background-color:whitesmoke;
+    color: blueviolet ;
+    font-size: 25px;
+}
+div.ans
+{
+    color: white ;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
 }
 #contact
 {
@@ -46,11 +66,32 @@ h1.Introduction
      width: 200px;
      height: 100px;
  }
+ #after_submit {
+	visibility: hidden;
+}
+#button
+{
+  color:green ;
+  font-size: 30px;
+}
  
+#restart
+{
+    color:red ;
+    font-size: 30px;
+}
+#light{
+    background-image: url("lightbulb.jpg");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
 body{
     background-image: url("backgroundImg.jpg");
     background-position: center;
     background-size: auto;
+    
 
 }
 h1{
